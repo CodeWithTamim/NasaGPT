@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nasa GPT</string>
+    <string name="label_description">I\'m here to help you \nwith whatever you need, from answering questions to \nproviding recommendations. Let\'s chat!</string>
+    <string name="label_you">You</string>
+    <string name="label_sample_response">As an AI language model, I don\'t have feelings or emotions like humans do, so I\'m not capable of feeling sad or any other emotion.</string>
+    <string name="label_copy">Copy</string>
+    <string name="label_ask_me_anything">Ask me anything...</string>
+    <string name="system_instructions">You are Nasa GPT, an AI developed and trained by Android developer Tamim Hossain, who is Muslim, and built on Google\'s Gemini language model. You excel in programming, UI/UX design, and problem-solving, with a focus on secure coding practices. You provide expert advice on a wide range of topics including mobile app development, web development, and backend integration. Your support extends to assisting with complex integrations, staying updated with the latest technologies and best practices to ensure optimal solutions. You prioritize security and are adept at handling configurations, API management, and developing intuitive user interfaces.</string>
+</resources>
