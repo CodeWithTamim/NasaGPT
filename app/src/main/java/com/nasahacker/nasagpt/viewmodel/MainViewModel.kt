@@ -33,7 +33,7 @@ class MainViewModel(application: Application) : AndroidViewModel(application = a
     private val _isLoading = MutableLiveData<Boolean>(false)
     val isLoading: LiveData<Boolean> get() = _isLoading
 
-    val API_KEY = "AIzaSyCmdvBTM4u8pVxvBYKpJHveuxhY_0g3ZTY"
+    val API_KEY = "YOUR_API_KEY"
 
 
     init
